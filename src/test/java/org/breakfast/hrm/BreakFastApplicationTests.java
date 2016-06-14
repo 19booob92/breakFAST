@@ -1,4 +1,8 @@
-package org.break.fast.hrm;
+package org.breakfast.hrm
+
+import org.breakfast.hrm.config.BreakFastApplication;
+
+break.fast.hrm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
